@@ -1,0 +1,22 @@
+{
+  "name": "banking-challenge-engineering-web-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "robot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdoufrondo/Bankin-Challenge-Engineering-Web-Scrapping.git"
+  },
+  "author": "Jean Daniel Frondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jdoufrondo/Bankin-Challenge-Engineering-Web-Scrapping/issues"
+  },
+  "homepage": "https://github.com/Jdoufrondo/Bankin-Challenge-Engineering-Web-Scrapping#readme",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
